@@ -16,7 +16,7 @@ elseif(marks>=40&&marks<54)
 {
 printf("grade D");
 }
-elseif("marks>=54&&marks<69)
+elseif(marks>=54&&marks<69)
 {
 printf("grade C");
 }
